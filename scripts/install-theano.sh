@@ -3,3 +3,5 @@ sudo yum install epel-release -y \
     && sudo pip install --upgrade pip \
     && sudo pip install theano
 
+sudo yum install python-devel -y
+
